@@ -1,0 +1,10 @@
+*.sln
+*.csproj
+.vs
+Build
+Library
+Temp
+App
+UWP
+WSATestCertificate.pfx
+WSATestCertificate.pfx.meta
